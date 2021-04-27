@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kennedi27
 - 👀 I’m interested in Mobile Application & Web Application
-- 🌱 I’m currently learning Mobile Application (React Native)
+- 🌱 I’m currently learning Mobile Application (React Native) and Web Framework
 - 📫 How to reach me.
   Github : github.com/Kennedi27/
 
