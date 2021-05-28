@@ -2,7 +2,12 @@
 - 👀 I’m interested in Mobile Application & Web Application
 - 🌱 I’m currently learning Mobile Application (React Native) and Web Framework
 - 📫 How to reach me.
-  Github : github.com/Kennedi27/
+<ul>
+  <li>Github : github.com/Kennedi27/</li>
+  <li>Linkedin : www.linkedin.com/in/kennediriadonadeak271</li>
+  <li>Instagram : @kennedynadeak</li>
+</ul>
+
 
 <!---
 Kennedi27/Kennedi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
