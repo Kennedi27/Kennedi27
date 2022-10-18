@@ -6,7 +6,7 @@
   <li>Github : https://github.com/Kennedi27/</li>
   <li>Linkedin : www.linkedin.com/in/kennediriadonadeak271</li>
   <li>Instagram : @kennedynadeak</li>
-  <li>Portofolio : https://kennedi27.github.io/kennedinadeak/</li>
+  <li>Portofolio : https://kennedi27.github.io/kennedinadeak/#portofolio/</li>
 </ul>
 
 
