@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Mobile Application (React Native) and Web Framework
 - 📫 How to reach me.
 <ul>
-  <li>Github : github.com/Kennedi27/</li>
+  <li>Github : https://github.com/Kennedi27/</li>
   <li>Linkedin : www.linkedin.com/in/kennediriadonadeak271</li>
   <li>Instagram : @kennedynadeak</li>
+  <li>Portofolio : https://kennedi27.github.io/kennedinadeak/</li>
 </ul>
 
 
