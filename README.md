@@ -8,7 +8,7 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/kennediriadonadeak271)
 
-[![Portofolio URL](https://img.shields.io/static/v1?color=green&label=Portofolio&logo=egghead&logoColor=white&style=for-the-badge&message=Check%20Profile)]([https://www.linkedin.com/in/kennediriadonadeak27](https://kennedi27.github.io/kennedinadeak/#portofolio/)1)
+[![Portofolio URL](https://img.shields.io/static/v1?color=green&label=Portofolio&logo=egghead&logoColor=white&style=for-the-badge&message=Check%20Profile)]([https://www.linkedin.com/in/kennediriadonadeak27](https://kennedi27.github.io/kennedinadeak/#portofolio/))
 
 <hr/>
 
