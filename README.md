@@ -12,8 +12,8 @@
 
 <hr/>
 
-<a href="https://github.com/Kennedi27">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kennedi27&count_private=true&show_icons=true&hide=stars" />
+<a href="https://github.com/kennedi27">
+    <img src="https://github-readme-stats.vercel.app/api?username=kennedi27&count_private=true&show_icons=true&hide=stars" />
 </a>
 
 
