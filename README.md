@@ -12,11 +12,14 @@
 
 <hr/>
 
+
 <a href="https://github.com/kennedi27">
     <img src="https://github-readme-stats.vercel.app/api?username=kennedi27&count_private=true&show_icons=true&hide=stars" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedi27&layout=compact" />
 </a>
 
 
+<hr/>
 <!---
 Kennedi27/Kennedi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
