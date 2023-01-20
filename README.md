@@ -15,7 +15,7 @@
 
 <a href="https://github.com/kennedi27">
     <img src="https://github-readme-stats.vercel.app/api?username=kennedi27&count_private=true&show_icons=true&hide=stars" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedi27&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedi27&count_private=true&layout=compact" />
 </a>
 
 
