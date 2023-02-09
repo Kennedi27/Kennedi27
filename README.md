@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kennedi Riado Nadeak
-- ✨ Currenly working on a company as a Junior .NET Developer
-- 👀 Interested with Mobile Dev Application (Specially React Native) & Web Application Develop
+- ✨ Currenly working in a company as a Junior .NET Developer
+- 👀 Interested with Mobile Dev Application (Specially React Native) & Web Develop
 - 🌱 Now, I'm focused on .Net, RESTful APIs, SQL and Clean Architecture
 - 📫 How to reach me.
 
