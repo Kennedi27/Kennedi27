@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Kennedi Riado Nadeak
 - ✨ Currenly working in a company as a Junior .NET Developer
 - 👀 Interested with Mobile Dev Application (Specially React Native) & Web Develop
-- 🌱 Now, I'm focused on .Net, RESTful APIs, SQL and Clean Architecture
-- 📫 How to reach me.
+- 🌱 Now, I'm focused on .Net, RESTful APIs, SQL and Learn About Clean Architecture
+- 🏀 Hobbies: Football, Games, Coding, Volly and Swimming
+- 📫 Reach me on Linkedin.
 
 <hr/>
 
@@ -20,9 +21,3 @@
 
 
 <hr/>
-<!---
-Kennedi27/Kennedi27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on 
-Thank's milan
---->
