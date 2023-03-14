@@ -2,7 +2,7 @@
 - ✨ Currenly working in a company as a Junior .NET Developer
 - 👀 Interested with Mobile Dev Application (Specially React Native) & Web Develop
 - 🌱 Now, I'm focused on .Net, RESTful APIs, SQL and Learn About Clean Architecture
-- 🏀 Hobbies: Football, Games, Coding, Volly and Swimming
+- 🏀 Hobbies: Football, Games, Coding, Volleyball and Swimming
 - 📫 Reach me on Linkedin.
 
 <hr/>
