@@ -10,7 +10,6 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/kennediriadonadeak271)
 
 [![Portofolio URL](https://img.shields.io/static/v1?color=green&label=Portofolio&logo=egghead&logoColor=white&style=for-the-badge&message=Check%20Profile)](https://kennedi27.github.io/kennedinadeak/#portofolio/)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=kennedi27&theme=algolia&show_icons=true)](https://github.com/kennedi27)
 
 <hr/>
 
