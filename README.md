@@ -11,7 +11,7 @@
 
 [![Portofolio URL](https://img.shields.io/static/v1?color=green&label=Portofolio&logo=egghead&logoColor=white&style=for-the-badge&message=Check%20Profile)](https://kennedi27.github.io/kennedinadeak/#portofolio/)
 
-![](https://github-profile-trophy.vercel.app/?username=kennedi27&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kennedi27&no-frame=false&no-bg=false&margin-w=4)
 
 <hr/>
 
