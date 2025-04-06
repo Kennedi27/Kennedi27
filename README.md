@@ -105,8 +105,7 @@ API integration for ferry services.
 ---
 
 ## 🌱 What I’m Learning Now 
-- **Python Programming** 🐍  
-- **Advanced Technical Analysis** for Stocks Market 📈  
+- **Python Programming** 🐍   
 
 ---
 
