@@ -74,7 +74,7 @@
 </table>
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 ### 🌐 [Payment Gateway Integration](#)
@@ -87,7 +87,7 @@ Efficient PDF document generation using Razor views embedded in assemblies.
 API integration for ferry services.
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <p>
@@ -103,10 +103,10 @@ API integration for ferry services.
 </p>
 
 ---
-
+<!--
 ## 🌱 What I’m Learning Now 
 - **Python Programming** 🐍   
-
+-->
 ---
 
 ## 📫 Let’s Connect!
