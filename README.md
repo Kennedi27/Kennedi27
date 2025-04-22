@@ -32,6 +32,9 @@
   <a href="https://github.com/Kennedi27?tab=followers">
     <img src="https://img.shields.io/github/followers/Kennedi27?label=Followers&style=social" alt="GitHub Followers">
   </a>
+    <a href="https://linkedin.com/in/kennediriadonadeak271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:kennedi.itdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-red" alt="Email Me">
   </a>
