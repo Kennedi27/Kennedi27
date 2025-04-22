@@ -1,3 +1,4 @@
+<!--
 - 👋 Hi, I’m Kennedi Riado Nadeak
 - ✨ Currenly working in a company as a Junior .NET Developer
 - 👀 Interested with Mobile Dev Application (Specially React Native) & Web Develop
@@ -23,7 +24,7 @@
 
 
 <hr/>
-
+-->
 
 <h1 align="center">Hi, I'm <a href="https://github.com/Kennedi27" target="_blank">Kennedi Riado Nadeak</a> 👋</h1>
 
@@ -90,26 +91,29 @@ API integration for ferry services.
 -->
 ## 📊 GitHub Stats
 
-<p>
-    <a href="https://github.com/kennedi27">
-        <img src="https://github-readme-stats.vercel.app/api?username=kennedi27&count_private=true&show_icons=true&hide=stars" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedi27&count_private=true&layout=compact" />
-    </a>
-</p>
-<p>
-    <a href="https://github.com/kennedi27">
-      <img src="https://github-profile-trophy.vercel.app/?username=kennedi27&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commit,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophy">
-    </a>
-</p>
+<table>
+    <tr>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennedi27&theme=vue"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedi27&count_private=true&layout=compact" /></td>
+    </tr>
+    <tr>
+        <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=kennedi27&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commit,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophy"></td>
+    </tr>
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=kennedi27&count_private=true&show_icons=true&hide=stars" /> -->
+</table>
 
----
 <!--
+---
+
 ## 🌱 What I’m Learning Now 
 - **Python Programming** 🐍   
 -->
----
+<!--
+<p>
+    Hi, I'm Kennedi Riado Nadeak from Batam, Kepulauan Riau, Indonesia. I specialize in web development, with a growing interest in mobile apps. Currently, I work as a Software Developer in a Batam-based company, focusing on building REST APIs using .NET Core. I'm actively learning and improving my skills in C# and .NET Core to develop better applications.
+</p>
 
-## 📫 Let’s Connect!
+## 📫 Let’s Connect! 🌟⭐🌟
 <p align="center">
   <a href="https://github.com/Kennedi27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -126,7 +130,5 @@ API integration for ferry services.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+-->
 
----
-
-🌟⭐🌟
